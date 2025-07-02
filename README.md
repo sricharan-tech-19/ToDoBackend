@@ -1,14 +1,18 @@
-# Node.js template
+# 🛠️ Todo App — Backend (MERN Stack)
 
-This is a Node.js project with an HTTP server.
+This is the **backend API** for the Todo App, built using **Node.js**, **Express**, and
+**MongoDB**. It supports full CRUD operations and is designed to work with the React frontend.
 
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io).
+## 🚀 Features
 
-## How does this work?
+- RESTful API for todos
+- Create, Read, Update, Delete functionality
+- MongoDB integration using Mongoose
+- Environment-based config 
 
-We run `yarn start` to start an HTTP server that runs on http://localhost:8080. You can open new or existing devtools with the + button next to the devtool tabs.
+## 🧰 Tech Stack
 
-## Resources
+- Node.js
+- Express.js
+- MongoDB + Mongoose
 
-- [CodeSandbox — Docs](https://codesandbox.io/docs)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
